@@ -13,3 +13,6 @@ https://event-horizon.glitch.me/
 
 ## Website
 https://uwrealitylab.github.io/xrcapstone21sp-team3/
+
+## Pre-Alpha Unity Version
+https://github.com/Neleac/EventHorizonUnity
